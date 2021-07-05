@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.e13958c6.chunk.js",
+    "main.js": "/static/js/main.0b1efcd8.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.2916ff1f.js",
     "static/css/2.0cbb7271.chunk.css": "/static/css/2.0cbb7271.chunk.css",
-    "static/js/2.0b66e5bd.chunk.js": "/static/js/2.0b66e5bd.chunk.js",
+    "static/js/2.d74c8877.chunk.js": "/static/js/2.d74c8877.chunk.js",
     "static/js/3.c508aadf.chunk.js": "/static/js/3.c508aadf.chunk.js",
     "static/js/4.a5d01db4.chunk.js": "/static/js/4.a5d01db4.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.0b66e5bd.chunk.js.LICENSE.txt": "/static/js/2.0b66e5bd.chunk.js.LICENSE.txt",
+    "static/js/2.d74c8877.chunk.js.LICENSE.txt": "/static/js/2.d74c8877.chunk.js.LICENSE.txt",
     "static/js/3.c508aadf.chunk.js.LICENSE.txt": "/static/js/3.c508aadf.chunk.js.LICENSE.txt",
     "static/media/add_a_new_blockchain.md": "/static/media/add_a_new_blockchain.d98e84da.md",
     "static/media/all-bunnies-clipped.png": "/static/media/all-bunnies-clipped.6aa99e2e.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.2916ff1f.js",
     "static/css/2.0cbb7271.chunk.css",
-    "static/js/2.0b66e5bd.chunk.js",
-    "static/js/main.e13958c6.chunk.js"
+    "static/js/2.d74c8877.chunk.js",
+    "static/js/main.0b1efcd8.chunk.js"
   ]
 }
